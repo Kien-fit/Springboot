@@ -1,2 +1,2 @@
 # Springboot
-web news
+api of web news
